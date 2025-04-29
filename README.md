@@ -11,7 +11,7 @@ Features
 Technologies Used
 - Python 3
 
-## How to Run
+How to Run
 1. Ensure you have Python installed on your system.
 2. Download or clone this repository.
 3. Open a terminal or command prompt and navigate to the project folder.
